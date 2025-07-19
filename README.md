@@ -1,6 +1,3 @@
-## Hi there 👋
-
-## 📊 GitHub Insights
 
 <p align="center">
 
