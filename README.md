@@ -12,7 +12,7 @@
 <p align="center">
 
   <!-- Mostra il tuo badge/stats 42 -->
-  <img height="50%" width="auto" src="https://badge42.vercel.app/api/stats/freesca?theme=graywhite&hide_border=true" alt="42 Network Stats"/>
+  <img height="50%" width="auto" src="https://badge42.vercel.app/api/stats/freesca?theme=light&hide_border=true" alt="42 Network Stats"/>
 
 </p>
 
