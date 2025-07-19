@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-
   <!-- Mostra il tuo badge/stats 42 -->
-  <img height="50%" width="auto" src="https://badge42.vercel.app/api/stats/freesca?theme=light&hide_border=true" alt="42 Network Stats"/>
-
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/fdonati?1337Badge=off&UM6P=off" alt="fdonati's 42 stats" /></a>
 </p>
 
