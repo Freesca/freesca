@@ -14,3 +14,9 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/fdonati?1337Badge=off&UM6P=off" alt="fdonati's 42 stats" /></a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,django,postgres,ts,angular,docker,nginx,linux,bash,vim,vscode,git,github,postman,matlab" />
+  </a>
+</p>
+
