@@ -14,7 +14,7 @@
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=freesca&s&count_private=true&theme=graywhite&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats"/>
 
   <!-- Most Used Languages -->
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freesca&layout=compact&hide_border=true&theme=graywhite&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freesca&layout=compact&hide_border=true&theme=graywhite&langs_count=6&hide=jupyter%20notebook,tex,css,php&bg_color=00000000" alt="Top Languages"/>
 </p>
 
 ## 42 Progress
