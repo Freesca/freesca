@@ -4,7 +4,7 @@
 ## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,django,postgres,ts,angular,docker,nginx,linux,bash,vim,vscode,git,github,postman,matlab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,numpy,matplotlib,django,postgres,ts,angular,docker,nginx,linux,bash,vim,vscode,git,github,postman,matlab" />
   </a>
 </p>
 
